@@ -1,0 +1,46 @@
+
+.pg_button{
+    background-color: white;
+    border-radius: 50px;  
+    width: 35px;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    user-select: none;
+    transition: background-color 250ms;
+    -webkit-box-shadow: 2px 3px 12px -3px #000000;
+    box-shadow: 2px 3px 12px -3px #000000;
+  }
+  
+  .pg_button:hover{
+    color: white;
+    background-color: #a1bcf5;
+  }
+  
+  .paginationItem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    background-color: white;
+    user-select: none;
+    transition: background-color 250ms;
+    -webkit-box-shadow: 2px 3px 12px -3px #000000;
+    box-shadow: 2px 3px 12px -3px #000000;
+    
+  }
+  
+  .paginationItem:hover{
+    background-color: #a1bcf5;
+    color: white;
+  }
+  
+  .paginationItemActive {
+    background-color: #6390F0;
+    color: white;
+  }
+  

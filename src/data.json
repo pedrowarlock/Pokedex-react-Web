@@ -1,0 +1,8714 @@
+[
+  {
+    "id": 1,
+      "name": "Bulbasaur",
+      "sprite": "001MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        },
+        {
+          "slot": 2,
+          "name": "Poison"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Ivysaur",
+      "sprite": "002MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        },
+        {
+          "slot": 2,
+          "name": "Poison"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Venusaur",
+      "sprite": "003MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        },
+        {
+          "slot": 2,
+          "name": "Poison"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Charmander",
+      "sprite": "004MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fire"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Charmeleon",
+      "sprite": "005MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fire"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Charizard",
+      "sprite": "006MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fire"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Squirtle",
+      "sprite": "007MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Wartortle",
+      "sprite": "008MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Blastoise",
+      "sprite": "009MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Caterpie",
+      "sprite": "010MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Metapod",
+      "sprite": "011MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Butterfree",
+      "sprite": "012MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Pikachu",
+      "sprite": "025MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Electric"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Raichu",
+      "sprite": "026MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Electric"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Sandshrew",
+      "sprite": "027MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Sandslash",
+      "sprite": "028MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Nidoran♀",
+      "sprite": "029MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Poison"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Nidorina",
+      "sprite": "030MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Poison"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Nidoqueen",
+      "sprite": "031MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Poison"
+        },
+        {
+          "slot": 2,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Nidoran♂",
+      "sprite": "032MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Poison"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Nidorino",
+      "sprite": "033MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Poison"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Nidoking",
+      "sprite": "034MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Poison"
+        },
+        {
+          "slot": 2,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Clefairy",
+      "sprite": "035MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Clefable",
+      "sprite": "036MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Vulpix",
+      "sprite": "037MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fire"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Ninetales",
+      "sprite": "038MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fire"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Jigglypuff",
+      "sprite": "039MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        },
+        {
+          "slot": 2,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Wigglytuff",
+      "sprite": "040MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        },
+        {
+          "slot": 2,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Zubat",
+      "sprite": "041MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Poison"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Golbat",
+      "sprite": "042MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Poison"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Oddish",
+      "sprite": "043MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        },
+        {
+          "slot": 2,
+          "name": "Poison"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Gloom",
+      "sprite": "044MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        },
+        {
+          "slot": 2,
+          "name": "Poison"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Vileplume",
+      "sprite": "045MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        },
+        {
+          "slot": 2,
+          "name": "Poison"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Diglett",
+      "sprite": "050MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Dugtrio",
+      "sprite": "051MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Meowth",
+      "sprite": "052MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Persian",
+      "sprite": "053MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Psyduck",
+      "sprite": "054MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Golduck",
+      "sprite": "055MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Growlithe",
+      "sprite": "058MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fire"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Arcanine",
+      "sprite": "059MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fire"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Poliwag",
+      "sprite": "060MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Poliwhirl",
+      "sprite": "061MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Poliwrath",
+      "sprite": "062MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Abra",
+      "sprite": "063MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Kadabra",
+      "sprite": "064MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Alakazam",
+      "sprite": "065MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Machop",
+      "sprite": "066MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Machoke",
+      "sprite": "067MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Machamp",
+      "sprite": "068MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "name": "Tentacool",
+      "sprite": "072MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Poison"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "name": "Tentacruel",
+      "sprite": "073MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Poison"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "name": "Ponyta",
+      "sprite": "077MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fire"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "name": "Rapidash",
+      "sprite": "078MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fire"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "name": "Slowpoke",
+      "sprite": "079MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "name": "Slowbro",
+      "sprite": "080MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "name": "Magnemite",
+      "sprite": "081MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Electric"
+        },
+        {
+          "slot": 2,
+          "name": "Steel"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "name": "Magneton",
+      "sprite": "082MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Electric"
+        },
+        {
+          "slot": 2,
+          "name": "Steel"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "name": "Farfetch'd",
+      "sprite": "083MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "name": "Shellder",
+      "sprite": "090MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "name": "Cloyster",
+      "sprite": "091MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Ice"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "name": "Gastly",
+      "sprite": "092MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ghost"
+        },
+        {
+          "slot": 2,
+          "name": "Poison"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "name": "Haunter",
+      "sprite": "093MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ghost"
+        },
+        {
+          "slot": 2,
+          "name": "Poison"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "name": "Gengar",
+      "sprite": "094MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ghost"
+        },
+        {
+          "slot": 2,
+          "name": "Poison"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "name": "Onix",
+      "sprite": "095MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        },
+        {
+          "slot": 2,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "name": "Krabby",
+      "sprite": "098MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "name": "Kingler",
+      "sprite": "099MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "name": "Exeggcute",
+      "sprite": "102MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        },
+        {
+          "slot": 2,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "name": "Exeggutor",
+      "sprite": "103MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        },
+        {
+          "slot": 2,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "name": "Cubone",
+      "sprite": "104MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "name": "Marowak",
+      "sprite": "105MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "name": "Hitmonlee",
+      "sprite": "106MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "name": "Hitmonchan",
+      "sprite": "107MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "name": "Lickitung",
+      "sprite": "108MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "name": "Koffing",
+      "sprite": "109MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Poison"
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "name": "Weezing",
+      "sprite": "110MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Poison"
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "name": "Rhyhorn",
+      "sprite": "111MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ground"
+        },
+        {
+          "slot": 2,
+          "name": "Rock"
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "name": "Rhydon",
+      "sprite": "112MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ground"
+        },
+        {
+          "slot": 2,
+          "name": "Rock"
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "name": "Chansey",
+      "sprite": "113MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "name": "Tangela",
+      "sprite": "114MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "name": "Kangaskhan",
+      "sprite": "115MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "name": "Horsea",
+      "sprite": "116MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "name": "Seadra",
+      "sprite": "117MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "name": "Goldeen",
+      "sprite": "118MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "name": "Seaking",
+      "sprite": "119MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "name": "Staryu",
+      "sprite": "120MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "name": "Starmie",
+      "sprite": "121MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "name": "Mr. Mime",
+      "sprite": "122MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        },
+        {
+          "slot": 2,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "name": "Scyther",
+      "sprite": "123MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "name": "Jynx",
+      "sprite": "124MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ice"
+        },
+        {
+          "slot": 2,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "name": "Electabuzz",
+      "sprite": "125MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Electric"
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "name": "Magmar",
+      "sprite": "126MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fire"
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "name": "Pinsir",
+      "sprite": "127MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "name": "Tauros",
+      "sprite": "128MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "name": "Magikarp",
+      "sprite": "129MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "name": "Gyarados",
+      "sprite": "130MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "name": "Lapras",
+      "sprite": "131MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Ice"
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "name": "Ditto",
+      "sprite": "132MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "name": "Eevee",
+      "sprite": "133MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "name": "Vaporeon",
+      "sprite": "134MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "name": "Jolteon",
+      "sprite": "135MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Electric"
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "name": "Flareon",
+      "sprite": "136MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fire"
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "name": "Porygon",
+      "sprite": "137MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "name": "Omanyte",
+      "sprite": "138MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        },
+        {
+          "slot": 2,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "name": "Omastar",
+      "sprite": "139MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        },
+        {
+          "slot": 2,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "name": "Kabuto",
+      "sprite": "140MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        },
+        {
+          "slot": 2,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "name": "Kabutops",
+      "sprite": "141MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        },
+        {
+          "slot": 2,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "name": "Aerodactyl",
+      "sprite": "142MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "name": "Snorlax",
+      "sprite": "143MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "name": "Articuno",
+      "sprite": "144MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ice"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "name": "Zapdos",
+      "sprite": "145MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Electric"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "name": "Moltres",
+      "sprite": "146MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fire"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "name": "Dratini",
+      "sprite": "147MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "name": "Dragonair",
+      "sprite": "148MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "name": "Dragonite",
+      "sprite": "149MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dragon"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "name": "Mewtwo",
+      "sprite": "150MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "name": "Mew",
+      "sprite": "151MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "name": "Hoothoot",
+      "sprite": "163MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "name": "Noctowl",
+      "sprite": "164MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 169,
+      "name": "Crobat",
+      "sprite": "169MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Poison"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 170,
+      "name": "Chinchou",
+      "sprite": "170MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Electric"
+        }
+      ]
+    },
+    {
+      "id": 171,
+      "name": "Lanturn",
+      "sprite": "171MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Electric"
+        }
+      ]
+    },
+    {
+      "id": 172,
+      "name": "Pichu",
+      "sprite": "172MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Electric"
+        }
+      ]
+    },
+    {
+      "id": 173,
+      "name": "Cleffa",
+      "sprite": "173MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 174,
+      "name": "Igglybuff",
+      "sprite": "174MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        },
+        {
+          "slot": 2,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "name": "Togepi",
+      "sprite": "175MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 176,
+      "name": "Togetic",
+      "sprite": "176MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fairy"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 177,
+      "name": "Natu",
+      "sprite": "177MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 178,
+      "name": "Xatu",
+      "sprite": "178MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 182,
+      "name": "Bellossom",
+      "sprite": "182MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        }
+      ]
+    },
+    {
+      "id": 183,
+      "name": "Marill",
+      "sprite": "183MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 184,
+      "name": "Azumarill",
+      "sprite": "184MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 185,
+      "name": "Sudowoodo",
+      "sprite": "185MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        }
+      ]
+    },
+    {
+      "id": 186,
+      "name": "Politoed",
+      "sprite": "186MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 194,
+      "name": "Wooper",
+      "sprite": "194MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 195,
+      "name": "Quagsire",
+      "sprite": "195MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 196,
+      "name": "Espeon",
+      "sprite": "196MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 197,
+      "name": "Umbreon",
+      "sprite": "197MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dark"
+        }
+      ]
+    },
+    {
+      "id": 199,
+      "name": "Slowking",
+      "sprite": "199MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 202,
+      "name": "Wobbuffet",
+      "sprite": "202MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 206,
+      "name": "Dunsparce",
+      "sprite": "206MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 208,
+      "name": "Steelix",
+      "sprite": "208MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Steel"
+        },
+        {
+          "slot": 2,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 211,
+      "name": "Qwilfish",
+      "sprite": "211MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Poison"
+        }
+      ]
+    },
+    {
+      "id": 212,
+      "name": "Scizor",
+      "sprite": "212MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        },
+        {
+          "slot": 2,
+          "name": "Steel"
+        }
+      ]
+    },
+    {
+      "id": 213,
+      "name": "Shuckle",
+      "sprite": "213MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        },
+        {
+          "slot": 2,
+          "name": "Rock"
+        }
+      ]
+    },
+    {
+      "id": 214,
+      "name": "Heracross",
+      "sprite": "214MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        },
+        {
+          "slot": 2,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 215,
+      "name": "Sneasel",
+      "sprite": "215MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dark"
+        },
+        {
+          "slot": 2,
+          "name": "Ice"
+        }
+      ]
+    },
+    {
+      "id": 220,
+      "name": "Swinub",
+      "sprite": "220MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ice"
+        },
+        {
+          "slot": 2,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 221,
+      "name": "Piloswine",
+      "sprite": "221MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ice"
+        },
+        {
+          "slot": 2,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 222,
+      "name": "Corsola",
+      "sprite": "222MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Rock"
+        }
+      ]
+    },
+    {
+      "id": 223,
+      "name": "Remoraid",
+      "sprite": "223MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 224,
+      "name": "Octillery",
+      "sprite": "224MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 225,
+      "name": "Delibird",
+      "sprite": "225MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ice"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 226,
+      "name": "Mantine",
+      "sprite": "226MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 227,
+      "name": "Skarmory",
+      "sprite": "227MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Steel"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 230,
+      "name": "Kingdra",
+      "sprite": "230MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 233,
+      "name": "Porygon2",
+      "sprite": "233MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 236,
+      "name": "Tyrogue",
+      "sprite": "236MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 237,
+      "name": "Hitmontop",
+      "sprite": "237MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 238,
+      "name": "Smoochum",
+      "sprite": "238MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ice"
+        },
+        {
+          "slot": 2,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 239,
+      "name": "Elekid",
+      "sprite": "239MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Electric"
+        }
+      ]
+    },
+    {
+      "id": 240,
+      "name": "Magby",
+      "sprite": "240MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fire"
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "name": "Miltank",
+      "sprite": "241MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "name": "Blissey",
+      "sprite": "242MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 243,
+      "name": "Raikou",
+      "sprite": "243MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Electric"
+        }
+      ]
+    },
+    {
+      "id": 244,
+      "name": "Entei",
+      "sprite": "244MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fire"
+        }
+      ]
+    },
+    {
+      "id": 245,
+      "name": "Suicune",
+      "sprite": "245MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "name": "Larvitar",
+      "sprite": "246MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        },
+        {
+          "slot": 2,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 247,
+      "name": "Pupitar",
+      "sprite": "247MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        },
+        {
+          "slot": 2,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 248,
+      "name": "Tyranitar",
+      "sprite": "248MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        },
+        {
+          "slot": 2,
+          "name": "Dark"
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "name": "Lugia",
+      "sprite": "249MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "name": "Ho-Oh",
+      "sprite": "250MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fire"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "name": "Celebi",
+      "sprite": "251MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        },
+        {
+          "slot": 2,
+          "name": "Grass"
+        }
+      ]
+    },
+    {
+      "id": 252,
+      "name": "Treecko",
+      "sprite": "252MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        }
+      ]
+    },
+    {
+      "id": 253,
+      "name": "Grovyle",
+      "sprite": "253MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        }
+      ]
+    },
+    {
+      "id": 254,
+      "name": "Sceptile",
+      "sprite": "254MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        }
+      ]
+    },
+    {
+      "id": 255,
+      "name": "Torchic",
+      "sprite": "255MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fire"
+        }
+      ]
+    },
+    {
+      "id": 256,
+      "name": "Combusken",
+      "sprite": "256MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fire"
+        },
+        {
+          "slot": 2,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 257,
+      "name": "Blaziken",
+      "sprite": "257MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fire"
+        },
+        {
+          "slot": 2,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 258,
+      "name": "Mudkip",
+      "sprite": "258MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 259,
+      "name": "Marshtomp",
+      "sprite": "259MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 260,
+      "name": "Swampert",
+      "sprite": "260MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 263,
+      "name": "Zigzagoon",
+      "sprite": "263MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 264,
+      "name": "Linoone",
+      "sprite": "264MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 270,
+      "name": "Lotad",
+      "sprite": "270MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Grass"
+        }
+      ]
+    },
+    {
+      "id": 271,
+      "name": "Lombre",
+      "sprite": "271MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Grass"
+        }
+      ]
+    },
+    {
+      "id": 272,
+      "name": "Ludicolo",
+      "sprite": "272MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Grass"
+        }
+      ]
+    },
+    {
+      "id": 273,
+      "name": "Seedot",
+      "sprite": "273MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        }
+      ]
+    },
+    {
+      "id": 274,
+      "name": "Nuzleaf",
+      "sprite": "274MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        },
+        {
+          "slot": 2,
+          "name": "Dark"
+        }
+      ]
+    },
+    {
+      "id": 275,
+      "name": "Shiftry",
+      "sprite": "275MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        },
+        {
+          "slot": 2,
+          "name": "Dark"
+        }
+      ]
+    },
+    {
+      "id": 278,
+      "name": "Wingull",
+      "sprite": "278MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 279,
+      "name": "Pelipper",
+      "sprite": "279MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 280,
+      "name": "Ralts",
+      "sprite": "280MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        },
+        {
+          "slot": 2,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 281,
+      "name": "Kirlia",
+      "sprite": "281MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        },
+        {
+          "slot": 2,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 282,
+      "name": "Gardevoir",
+      "sprite": "282MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        },
+        {
+          "slot": 2,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 290,
+      "name": "Nincada",
+      "sprite": "290MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        },
+        {
+          "slot": 2,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 291,
+      "name": "Ninjask",
+      "sprite": "291MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 292,
+      "name": "Shedinja",
+      "sprite": "292MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        },
+        {
+          "slot": 2,
+          "name": "Ghost"
+        }
+      ]
+    },
+    {
+      "id": 293,
+      "name": "Whismur",
+      "sprite": "293MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 294,
+      "name": "Loudred",
+      "sprite": "294MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 295,
+      "name": "Exploud",
+      "sprite": "295MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 298,
+      "name": "Azurill",
+      "sprite": "298MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        },
+        {
+          "slot": 2,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 302,
+      "name": "Sableye",
+      "sprite": "302MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dark"
+        },
+        {
+          "slot": 2,
+          "name": "Ghost"
+        }
+      ]
+    },
+    {
+      "id": 303,
+      "name": "Mawile",
+      "sprite": "303MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Steel"
+        },
+        {
+          "slot": 2,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 304,
+      "name": "Aron",
+      "sprite": "304MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Steel"
+        },
+        {
+          "slot": 2,
+          "name": "Rock"
+        }
+      ]
+    },
+    {
+      "id": 305,
+      "name": "Lairon",
+      "sprite": "305MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Steel"
+        },
+        {
+          "slot": 2,
+          "name": "Rock"
+        }
+      ]
+    },
+    {
+      "id": 306,
+      "name": "Aggron",
+      "sprite": "306MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Steel"
+        },
+        {
+          "slot": 2,
+          "name": "Rock"
+        }
+      ]
+    },
+    {
+      "id": 309,
+      "name": "Electrike",
+      "sprite": "309MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Electric"
+        }
+      ]
+    },
+    {
+      "id": 310,
+      "name": "Manectric",
+      "sprite": "310MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Electric"
+        }
+      ]
+    },
+    {
+      "id": 315,
+      "name": "Roselia",
+      "sprite": "315MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        },
+        {
+          "slot": 2,
+          "name": "Poison"
+        }
+      ]
+    },
+    {
+      "id": 318,
+      "name": "Carvanha",
+      "sprite": "318MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Dark"
+        }
+      ]
+    },
+    {
+      "id": 319,
+      "name": "Sharpedo",
+      "sprite": "319MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Dark"
+        }
+      ]
+    },
+    {
+      "id": 320,
+      "name": "Wailmer",
+      "sprite": "320MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 321,
+      "name": "Wailord",
+      "sprite": "321MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 324,
+      "name": "Torkoal",
+      "sprite": "324MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fire"
+        }
+      ]
+    },
+    {
+      "id": 328,
+      "name": "Trapinch",
+      "sprite": "328MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 329,
+      "name": "Vibrava",
+      "sprite": "329MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ground"
+        },
+        {
+          "slot": 2,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 330,
+      "name": "Flygon",
+      "sprite": "330MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ground"
+        },
+        {
+          "slot": 2,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 333,
+      "name": "Swablu",
+      "sprite": "333MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 334,
+      "name": "Altaria",
+      "sprite": "334MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dragon"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 337,
+      "name": "Lunatone",
+      "sprite": "337MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        },
+        {
+          "slot": 2,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 338,
+      "name": "Solrock",
+      "sprite": "338MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        },
+        {
+          "slot": 2,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 339,
+      "name": "Barboach",
+      "sprite": "339MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 340,
+      "name": "Whiscash",
+      "sprite": "340MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 341,
+      "name": "Corphish",
+      "sprite": "341MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 342,
+      "name": "Crawdaunt",
+      "sprite": "342MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Dark"
+        }
+      ]
+    },
+    {
+      "id": 343,
+      "name": "Baltoy",
+      "sprite": "343MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ground"
+        },
+        {
+          "slot": 2,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 344,
+      "name": "Claydol",
+      "sprite": "344MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ground"
+        },
+        {
+          "slot": 2,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 345,
+      "name": "Lileep",
+      "sprite": "345MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        },
+        {
+          "slot": 2,
+          "name": "Grass"
+        }
+      ]
+    },
+    {
+      "id": 346,
+      "name": "Cradily",
+      "sprite": "346MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        },
+        {
+          "slot": 2,
+          "name": "Grass"
+        }
+      ]
+    },
+    {
+      "id": 347,
+      "name": "Anorith",
+      "sprite": "347MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        },
+        {
+          "slot": 2,
+          "name": "Bug"
+        }
+      ]
+    },
+    {
+      "id": 348,
+      "name": "Armaldo",
+      "sprite": "348MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        },
+        {
+          "slot": 2,
+          "name": "Bug"
+        }
+      ]
+    },
+    {
+      "id": 349,
+      "name": "Feebas",
+      "sprite": "349MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 350,
+      "name": "Milotic",
+      "sprite": "350MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 355,
+      "name": "Duskull",
+      "sprite": "355MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ghost"
+        }
+      ]
+    },
+    {
+      "id": 356,
+      "name": "Dusclops",
+      "sprite": "356MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ghost"
+        }
+      ]
+    },
+    {
+      "id": 359,
+      "name": "Absol",
+      "sprite": "359MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dark"
+        }
+      ]
+    },
+    {
+      "id": 360,
+      "name": "Wynaut",
+      "sprite": "360MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 361,
+      "name": "Snorunt",
+      "sprite": "361MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ice"
+        }
+      ]
+    },
+    {
+      "id": 362,
+      "name": "Glalie",
+      "sprite": "362MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ice"
+        }
+      ]
+    },
+    {
+      "id": 363,
+      "name": "Spheal",
+      "sprite": "363MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ice"
+        },
+        {
+          "slot": 2,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 364,
+      "name": "Sealeo",
+      "sprite": "364MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ice"
+        },
+        {
+          "slot": 2,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 365,
+      "name": "Walrein",
+      "sprite": "365MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ice"
+        },
+        {
+          "slot": 2,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 369,
+      "name": "Relicanth",
+      "sprite": "369MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Rock"
+        }
+      ]
+    },
+    {
+      "id": 371,
+      "name": "Bagon",
+      "sprite": "371MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 372,
+      "name": "Shelgon",
+      "sprite": "372MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 373,
+      "name": "Salamence",
+      "sprite": "373MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dragon"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 374,
+      "name": "Beldum",
+      "sprite": "374MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Steel"
+        },
+        {
+          "slot": 2,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 375,
+      "name": "Metang",
+      "sprite": "375MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Steel"
+        },
+        {
+          "slot": 2,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 376,
+      "name": "Metagross",
+      "sprite": "376MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Steel"
+        },
+        {
+          "slot": 2,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 377,
+      "name": "Regirock",
+      "sprite": "377MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        }
+      ]
+    },
+    {
+      "id": 378,
+      "name": "Regice",
+      "sprite": "378MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ice"
+        }
+      ]
+    },
+    {
+      "id": 379,
+      "name": "Registeel",
+      "sprite": "379MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Steel"
+        }
+      ]
+    },
+    {
+      "id": 380,
+      "name": "Latias",
+      "sprite": "380MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dragon"
+        },
+        {
+          "slot": 2,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 381,
+      "name": "Latios",
+      "sprite": "381MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dragon"
+        },
+        {
+          "slot": 2,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 382,
+      "name": "Kyogre",
+      "sprite": "382MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 383,
+      "name": "Groudon",
+      "sprite": "383MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 384,
+      "name": "Rayquaza",
+      "sprite": "384MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dragon"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 385,
+      "name": "Jirachi",
+      "sprite": "385MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Steel"
+        },
+        {
+          "slot": 2,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 403,
+      "name": "Shinx",
+      "sprite": "403MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Electric"
+        }
+      ]
+    },
+    {
+      "id": 404,
+      "name": "Luxio",
+      "sprite": "404MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Electric"
+        }
+      ]
+    },
+    {
+      "id": 405,
+      "name": "Luxray",
+      "sprite": "405MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Electric"
+        }
+      ]
+    },
+    {
+      "id": 406,
+      "name": "Budew",
+      "sprite": "406MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        },
+        {
+          "slot": 2,
+          "name": "Poison"
+        }
+      ]
+    },
+    {
+      "id": 407,
+      "name": "Roserade",
+      "sprite": "407MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        },
+        {
+          "slot": 2,
+          "name": "Poison"
+        }
+      ]
+    },
+    {
+      "id": 415,
+      "name": "Combee",
+      "sprite": "415MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 416,
+      "name": "Vespiquen",
+      "sprite": "416MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 420,
+      "name": "Cherubi",
+      "sprite": "420MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        }
+      ]
+    },
+    {
+      "id": 421,
+      "name": "Cherrim",
+      "sprite": "421MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        }
+      ]
+    },
+    {
+      "id": 422,
+      "name": "Shellos",
+      "sprite": "422MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 423,
+      "name": "Gastrodon",
+      "sprite": "423MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 425,
+      "name": "Drifloon",
+      "sprite": "425MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ghost"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 426,
+      "name": "Drifblim",
+      "sprite": "426MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ghost"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 427,
+      "name": "Buneary",
+      "sprite": "427MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 428,
+      "name": "Lopunny",
+      "sprite": "428MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 434,
+      "name": "Stunky",
+      "sprite": "434MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Poison"
+        },
+        {
+          "slot": 2,
+          "name": "Dark"
+        }
+      ]
+    },
+    {
+      "id": 435,
+      "name": "Skuntank",
+      "sprite": "435MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Poison"
+        },
+        {
+          "slot": 2,
+          "name": "Dark"
+        }
+      ]
+    },
+    {
+      "id": 436,
+      "name": "Bronzor",
+      "sprite": "436MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Steel"
+        },
+        {
+          "slot": 2,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 437,
+      "name": "Bronzong",
+      "sprite": "437MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Steel"
+        },
+        {
+          "slot": 2,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 438,
+      "name": "Bonsly",
+      "sprite": "438MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        }
+      ]
+    },
+    {
+      "id": 439,
+      "name": "Mime Jr.",
+      "sprite": "439MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        },
+        {
+          "slot": 2,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 440,
+      "name": "Happiny",
+      "sprite": "440MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 442,
+      "name": "Spiritomb",
+      "sprite": "442MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ghost"
+        },
+        {
+          "slot": 2,
+          "name": "Dark"
+        }
+      ]
+    },
+    {
+      "id": 443,
+      "name": "Gible",
+      "sprite": "443MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dragon"
+        },
+        {
+          "slot": 2,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 444,
+      "name": "Gabite",
+      "sprite": "444MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dragon"
+        },
+        {
+          "slot": 2,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 445,
+      "name": "Garchomp",
+      "sprite": "445MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dragon"
+        },
+        {
+          "slot": 2,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 446,
+      "name": "Munchlax",
+      "sprite": "446MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 447,
+      "name": "Riolu",
+      "sprite": "447MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 448,
+      "name": "Lucario",
+      "sprite": "448MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fighting"
+        },
+        {
+          "slot": 2,
+          "name": "Steel"
+        }
+      ]
+    },
+    {
+      "id": 449,
+      "name": "Hippopotas",
+      "sprite": "449MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 450,
+      "name": "Hippowdon",
+      "sprite": "450MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 451,
+      "name": "Skorupi",
+      "sprite": "451MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Poison"
+        },
+        {
+          "slot": 2,
+          "name": "Bug"
+        }
+      ]
+    },
+    {
+      "id": 452,
+      "name": "Drapion",
+      "sprite": "452MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Poison"
+        },
+        {
+          "slot": 2,
+          "name": "Dark"
+        }
+      ]
+    },
+    {
+      "id": 453,
+      "name": "Croagunk",
+      "sprite": "453MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Poison"
+        },
+        {
+          "slot": 2,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 454,
+      "name": "Toxicroak",
+      "sprite": "454MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Poison"
+        },
+        {
+          "slot": 2,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 458,
+      "name": "Mantyke",
+      "sprite": "458MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 459,
+      "name": "Snover",
+      "sprite": "459MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        },
+        {
+          "slot": 2,
+          "name": "Ice"
+        }
+      ]
+    },
+    {
+      "id": 460,
+      "name": "Abomasnow",
+      "sprite": "460MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        },
+        {
+          "slot": 2,
+          "name": "Ice"
+        }
+      ]
+    },
+    {
+      "id": 461,
+      "name": "Weavile",
+      "sprite": "461MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dark"
+        },
+        {
+          "slot": 2,
+          "name": "Ice"
+        }
+      ]
+    },
+    {
+      "id": 462,
+      "name": "Magnezone",
+      "sprite": "462MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Electric"
+        },
+        {
+          "slot": 2,
+          "name": "Steel"
+        }
+      ]
+    },
+    {
+      "id": 463,
+      "name": "Lickilicky",
+      "sprite": "463MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 464,
+      "name": "Rhyperior",
+      "sprite": "464MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ground"
+        },
+        {
+          "slot": 2,
+          "name": "Rock"
+        }
+      ]
+    },
+    {
+      "id": 465,
+      "name": "Tangrowth",
+      "sprite": "465MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        }
+      ]
+    },
+    {
+      "id": 466,
+      "name": "Electivire",
+      "sprite": "466MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Electric"
+        }
+      ]
+    },
+    {
+      "id": 467,
+      "name": "Magmortar",
+      "sprite": "467MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fire"
+        }
+      ]
+    },
+    {
+      "id": 468,
+      "name": "Togekiss",
+      "sprite": "468MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fairy"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 470,
+      "name": "Leafeon",
+      "sprite": "470MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        }
+      ]
+    },
+    {
+      "id": 471,
+      "name": "Glaceon",
+      "sprite": "471MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ice"
+        }
+      ]
+    },
+    {
+      "id": 473,
+      "name": "Mamoswine",
+      "sprite": "473MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ice"
+        },
+        {
+          "slot": 2,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 474,
+      "name": "Porygon-Z",
+      "sprite": "474MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 475,
+      "name": "Gallade",
+      "sprite": "475MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        },
+        {
+          "slot": 2,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 477,
+      "name": "Dusknoir",
+      "sprite": "477MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ghost"
+        }
+      ]
+    },
+    {
+      "id": 478,
+      "name": "Froslass",
+      "sprite": "478MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ice"
+        },
+        {
+          "slot": 2,
+          "name": "Ghost"
+        }
+      ]
+    },
+    {
+      "id": 479,
+      "name": "Rotom",
+      "sprite": "479MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Electric"
+        },
+        {
+          "slot": 2,
+          "name": "Ghost"
+        }
+      ]
+    },
+    {
+      "id": 480,
+      "name": "Uxie",
+      "sprite": "480MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 481,
+      "name": "Mesprit",
+      "sprite": "481MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 482,
+      "name": "Azelf",
+      "sprite": "482MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 483,
+      "name": "Dialga",
+      "sprite": "483MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Steel"
+        },
+        {
+          "slot": 2,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 484,
+      "name": "Palkia",
+      "sprite": "484MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 485,
+      "name": "Heatran",
+      "sprite": "485MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fire"
+        },
+        {
+          "slot": 2,
+          "name": "Steel"
+        }
+      ]
+    },
+    {
+      "id": 486,
+      "name": "Regigigas",
+      "sprite": "486MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 487,
+      "name": "Giratina",
+      "sprite": "487MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ghost"
+        },
+        {
+          "slot": 2,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 488,
+      "name": "Cresselia",
+      "sprite": "488MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 494,
+      "name": "Victini",
+      "sprite": "494MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        },
+        {
+          "slot": 2,
+          "name": "Fire"
+        }
+      ]
+    },
+    {
+      "id": 506,
+      "name": "Lillipup",
+      "sprite": "506MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 507,
+      "name": "Herdier",
+      "sprite": "507MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 508,
+      "name": "Stoutland",
+      "sprite": "508MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 509,
+      "name": "Purrloin",
+      "sprite": "509MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dark"
+        }
+      ]
+    },
+    {
+      "id": 510,
+      "name": "Liepard",
+      "sprite": "510MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dark"
+        }
+      ]
+    },
+    {
+      "id": 517,
+      "name": "Munna",
+      "sprite": "517MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 518,
+      "name": "Musharna",
+      "sprite": "518MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 519,
+      "name": "Pidove",
+      "sprite": "519MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 520,
+      "name": "Tranquill",
+      "sprite": "520MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 521,
+      "name": "Unfezant",
+      "sprite": "521MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 524,
+      "name": "Roggenrola",
+      "sprite": "524MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        }
+      ]
+    },
+    {
+      "id": 525,
+      "name": "Boldore",
+      "sprite": "525MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        }
+      ]
+    },
+    {
+      "id": 526,
+      "name": "Gigalith",
+      "sprite": "526MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        }
+      ]
+    },
+    {
+      "id": 527,
+      "name": "Woobat",
+      "sprite": "527MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 528,
+      "name": "Swoobat",
+      "sprite": "528MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 529,
+      "name": "Drilbur",
+      "sprite": "529MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 530,
+      "name": "Excadrill",
+      "sprite": "530MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ground"
+        },
+        {
+          "slot": 2,
+          "name": "Steel"
+        }
+      ]
+    },
+    {
+      "id": 531,
+      "name": "Audino",
+      "sprite": "531MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 532,
+      "name": "Timburr",
+      "sprite": "532MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 533,
+      "name": "Gurdurr",
+      "sprite": "533MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 534,
+      "name": "Conkeldurr",
+      "sprite": "534MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 535,
+      "name": "Tympole",
+      "sprite": "535MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 536,
+      "name": "Palpitoad",
+      "sprite": "536MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 537,
+      "name": "Seismitoad",
+      "sprite": "537MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 538,
+      "name": "Throh",
+      "sprite": "538MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 539,
+      "name": "Sawk",
+      "sprite": "539MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 543,
+      "name": "Venipede",
+      "sprite": "543MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        },
+        {
+          "slot": 2,
+          "name": "Poison"
+        }
+      ]
+    },
+    {
+      "id": 544,
+      "name": "Whirlipede",
+      "sprite": "544MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        },
+        {
+          "slot": 2,
+          "name": "Poison"
+        }
+      ]
+    },
+    {
+      "id": 545,
+      "name": "Scolipede",
+      "sprite": "545MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        },
+        {
+          "slot": 2,
+          "name": "Poison"
+        }
+      ]
+    },
+    {
+      "id": 546,
+      "name": "Cottonee",
+      "sprite": "546MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        },
+        {
+          "slot": 2,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 547,
+      "name": "Whimsicott",
+      "sprite": "547MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        },
+        {
+          "slot": 2,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 548,
+      "name": "Petilil",
+      "sprite": "548MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        }
+      ]
+    },
+    {
+      "id": 549,
+      "name": "Lilligant",
+      "sprite": "549MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        }
+      ]
+    },
+    {
+      "id": 550,
+      "name": "Basculin",
+      "sprite": "550MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 551,
+      "name": "Sandile",
+      "sprite": "551MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ground"
+        },
+        {
+          "slot": 2,
+          "name": "Dark"
+        }
+      ]
+    },
+    {
+      "id": 552,
+      "name": "Krokorok",
+      "sprite": "552MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ground"
+        },
+        {
+          "slot": 2,
+          "name": "Dark"
+        }
+      ]
+    },
+    {
+      "id": 553,
+      "name": "Krookodile",
+      "sprite": "553MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ground"
+        },
+        {
+          "slot": 2,
+          "name": "Dark"
+        }
+      ]
+    },
+    {
+      "id": 554,
+      "name": "Darumaka",
+      "sprite": "554MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fire"
+        }
+      ]
+    },
+    {
+      "id": 555,
+      "name": "Darmanitan",
+      "sprite": "555MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fire"
+        }
+      ]
+    },
+    {
+      "id": 556,
+      "name": "Maractus",
+      "sprite": "556MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        }
+      ]
+    },
+    {
+      "id": 557,
+      "name": "Dwebble",
+      "sprite": "557MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        },
+        {
+          "slot": 2,
+          "name": "Rock"
+        }
+      ]
+    },
+    {
+      "id": 558,
+      "name": "Crustle",
+      "sprite": "558MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        },
+        {
+          "slot": 2,
+          "name": "Rock"
+        }
+      ]
+    },
+    {
+      "id": 559,
+      "name": "Scraggy",
+      "sprite": "559MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dark"
+        },
+        {
+          "slot": 2,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 560,
+      "name": "Scrafty",
+      "sprite": "560MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dark"
+        },
+        {
+          "slot": 2,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 561,
+      "name": "Sigilyph",
+      "sprite": "561MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 562,
+      "name": "Yamask",
+      "sprite": "562MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ghost"
+        }
+      ]
+    },
+    {
+      "id": 563,
+      "name": "Cofagrigus",
+      "sprite": "563MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ghost"
+        }
+      ]
+    },
+    {
+      "id": 564,
+      "name": "Tirtouga",
+      "sprite": "564MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Rock"
+        }
+      ]
+    },
+    {
+      "id": 565,
+      "name": "Carracosta",
+      "sprite": "565MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Rock"
+        }
+      ]
+    },
+    {
+      "id": 566,
+      "name": "Archen",
+      "sprite": "566MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 567,
+      "name": "Archeops",
+      "sprite": "567MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 568,
+      "name": "Trubbish",
+      "sprite": "568MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Poison"
+        }
+      ]
+    },
+    {
+      "id": 569,
+      "name": "Garbodor",
+      "sprite": "569MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Poison"
+        }
+      ]
+    },
+    {
+      "id": 570,
+      "name": "Zorua",
+      "sprite": "570MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dark"
+        }
+      ]
+    },
+    {
+      "id": 571,
+      "name": "Zoroark",
+      "sprite": "571MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dark"
+        }
+      ]
+    },
+    {
+      "id": 572,
+      "name": "Minccino",
+      "sprite": "572MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 573,
+      "name": "Cinccino",
+      "sprite": "573MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 574,
+      "name": "Gothita",
+      "sprite": "574MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 575,
+      "name": "Gothorita",
+      "sprite": "575MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 576,
+      "name": "Gothitelle",
+      "sprite": "576MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 577,
+      "name": "Solosis",
+      "sprite": "577MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 578,
+      "name": "Duosion",
+      "sprite": "578MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 579,
+      "name": "Reuniclus",
+      "sprite": "579MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 582,
+      "name": "Vanillite",
+      "sprite": "582MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ice"
+        }
+      ]
+    },
+    {
+      "id": 583,
+      "name": "Vanillish",
+      "sprite": "583MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ice"
+        }
+      ]
+    },
+    {
+      "id": 584,
+      "name": "Vanilluxe",
+      "sprite": "584MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ice"
+        }
+      ]
+    },
+    {
+      "id": 587,
+      "name": "Emolga",
+      "sprite": "587MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Electric"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 588,
+      "name": "Karrablast",
+      "sprite": "588MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        }
+      ]
+    },
+    {
+      "id": 589,
+      "name": "Escavalier",
+      "sprite": "589MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        },
+        {
+          "slot": 2,
+          "name": "Steel"
+        }
+      ]
+    },
+    {
+      "id": 590,
+      "name": "Foongus",
+      "sprite": "590MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        },
+        {
+          "slot": 2,
+          "name": "Poison"
+        }
+      ]
+    },
+    {
+      "id": 591,
+      "name": "Amoonguss",
+      "sprite": "591MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        },
+        {
+          "slot": 2,
+          "name": "Poison"
+        }
+      ]
+    },
+    {
+      "id": 592,
+      "name": "Frillish",
+      "sprite": "592MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Ghost"
+        }
+      ]
+    },
+    {
+      "id": 593,
+      "name": "Jellicent",
+      "sprite": "593MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Ghost"
+        }
+      ]
+    },
+    {
+      "id": 595,
+      "name": "Joltik",
+      "sprite": "595MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        },
+        {
+          "slot": 2,
+          "name": "Electric"
+        }
+      ]
+    },
+    {
+      "id": 596,
+      "name": "Galvantula",
+      "sprite": "596MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        },
+        {
+          "slot": 2,
+          "name": "Electric"
+        }
+      ]
+    },
+    {
+      "id": 597,
+      "name": "Ferroseed",
+      "sprite": "597MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        },
+        {
+          "slot": 2,
+          "name": "Steel"
+        }
+      ]
+    },
+    {
+      "id": 598,
+      "name": "Ferrothorn",
+      "sprite": "598MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        },
+        {
+          "slot": 2,
+          "name": "Steel"
+        }
+      ]
+    },
+    {
+      "id": 599,
+      "name": "Klink",
+      "sprite": "599MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Steel"
+        }
+      ]
+    },
+    {
+      "id": 600,
+      "name": "Klang",
+      "sprite": "600MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Steel"
+        }
+      ]
+    },
+    {
+      "id": 601,
+      "name": "Klinklang",
+      "sprite": "601MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Steel"
+        }
+      ]
+    },
+    {
+      "id": 605,
+      "name": "Elgyem",
+      "sprite": "605MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 606,
+      "name": "Beheeyem",
+      "sprite": "606MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 607,
+      "name": "Litwick",
+      "sprite": "607MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ghost"
+        },
+        {
+          "slot": 2,
+          "name": "Fire"
+        }
+      ]
+    },
+    {
+      "id": 608,
+      "name": "Lampent",
+      "sprite": "608MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ghost"
+        },
+        {
+          "slot": 2,
+          "name": "Fire"
+        }
+      ]
+    },
+    {
+      "id": 609,
+      "name": "Chandelure",
+      "sprite": "609MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ghost"
+        },
+        {
+          "slot": 2,
+          "name": "Fire"
+        }
+      ]
+    },
+    {
+      "id": 610,
+      "name": "Axew",
+      "sprite": "610MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 611,
+      "name": "Fraxure",
+      "sprite": "611MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 612,
+      "name": "Haxorus",
+      "sprite": "612MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 613,
+      "name": "Cubchoo",
+      "sprite": "613MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ice"
+        }
+      ]
+    },
+    {
+      "id": 614,
+      "name": "Beartic",
+      "sprite": "614MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ice"
+        }
+      ]
+    },
+    {
+      "id": 615,
+      "name": "Cryogonal",
+      "sprite": "615MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ice"
+        }
+      ]
+    },
+    {
+      "id": 616,
+      "name": "Shelmet",
+      "sprite": "616MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        }
+      ]
+    },
+    {
+      "id": 617,
+      "name": "Accelgor",
+      "sprite": "617MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        }
+      ]
+    },
+    {
+      "id": 618,
+      "name": "Stunfisk",
+      "sprite": "618MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ground"
+        },
+        {
+          "slot": 2,
+          "name": "Electric"
+        }
+      ]
+    },
+    {
+      "id": 619,
+      "name": "Mienfoo",
+      "sprite": "619MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 620,
+      "name": "Mienshao",
+      "sprite": "620MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 621,
+      "name": "Druddigon",
+      "sprite": "621MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 622,
+      "name": "Golett",
+      "sprite": "622MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ground"
+        },
+        {
+          "slot": 2,
+          "name": "Ghost"
+        }
+      ]
+    },
+    {
+      "id": 623,
+      "name": "Golurk",
+      "sprite": "623MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ground"
+        },
+        {
+          "slot": 2,
+          "name": "Ghost"
+        }
+      ]
+    },
+    {
+      "id": 624,
+      "name": "Pawniard",
+      "sprite": "624MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dark"
+        },
+        {
+          "slot": 2,
+          "name": "Steel"
+        }
+      ]
+    },
+    {
+      "id": 625,
+      "name": "Bisharp",
+      "sprite": "625MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dark"
+        },
+        {
+          "slot": 2,
+          "name": "Steel"
+        }
+      ]
+    },
+    {
+      "id": 626,
+      "name": "Bouffalant",
+      "sprite": "626MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 627,
+      "name": "Rufflet",
+      "sprite": "627MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 628,
+      "name": "Braviary",
+      "sprite": "628MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 629,
+      "name": "Vullaby",
+      "sprite": "629MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dark"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 630,
+      "name": "Mandibuzz",
+      "sprite": "630MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dark"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 631,
+      "name": "Heatmor",
+      "sprite": "631MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fire"
+        }
+      ]
+    },
+    {
+      "id": 632,
+      "name": "Durant",
+      "sprite": "632MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        },
+        {
+          "slot": 2,
+          "name": "Steel"
+        }
+      ]
+    },
+    {
+      "id": 633,
+      "name": "Deino",
+      "sprite": "633MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dark"
+        },
+        {
+          "slot": 2,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 634,
+      "name": "Zweilous",
+      "sprite": "634MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dark"
+        },
+        {
+          "slot": 2,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 635,
+      "name": "Hydreigon",
+      "sprite": "635MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dark"
+        },
+        {
+          "slot": 2,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 636,
+      "name": "Larvesta",
+      "sprite": "636MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        },
+        {
+          "slot": 2,
+          "name": "Fire"
+        }
+      ]
+    },
+    {
+      "id": 637,
+      "name": "Volcarona",
+      "sprite": "637MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        },
+        {
+          "slot": 2,
+          "name": "Fire"
+        }
+      ]
+    },
+    {
+      "id": 638,
+      "name": "Cobalion",
+      "sprite": "638MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Steel"
+        },
+        {
+          "slot": 2,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 639,
+      "name": "Terrakion",
+      "sprite": "639MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        },
+        {
+          "slot": 2,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 640,
+      "name": "Virizion",
+      "sprite": "640MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        },
+        {
+          "slot": 2,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 641,
+      "name": "Tornadus",
+      "sprite": "641MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 642,
+      "name": "Thundurus",
+      "sprite": "642MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Electric"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 643,
+      "name": "Reshiram",
+      "sprite": "643MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dragon"
+        },
+        {
+          "slot": 2,
+          "name": "Fire"
+        }
+      ]
+    },
+    {
+      "id": 644,
+      "name": "Zekrom",
+      "sprite": "644MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dragon"
+        },
+        {
+          "slot": 2,
+          "name": "Electric"
+        }
+      ]
+    },
+    {
+      "id": 645,
+      "name": "Landorus",
+      "sprite": "645MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ground"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 646,
+      "name": "Kyurem",
+      "sprite": "646MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dragon"
+        },
+        {
+          "slot": 2,
+          "name": "Ice"
+        }
+      ]
+    },
+    {
+      "id": 647,
+      "name": "Keldeo",
+      "sprite": "647MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 649,
+      "name": "Genesect",
+      "sprite": "649MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        },
+        {
+          "slot": 2,
+          "name": "Steel"
+        }
+      ]
+    },
+    {
+      "id": 659,
+      "name": "Bunnelby",
+      "sprite": "659MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 660,
+      "name": "Diggersby",
+      "sprite": "660MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        },
+        {
+          "slot": 2,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 661,
+      "name": "Fletchling",
+      "sprite": "661MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 662,
+      "name": "Fletchinder",
+      "sprite": "662MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fire"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 663,
+      "name": "Talonflame",
+      "sprite": "663MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fire"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 674,
+      "name": "Pancham",
+      "sprite": "674MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 675,
+      "name": "Pangoro",
+      "sprite": "675MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fighting"
+        },
+        {
+          "slot": 2,
+          "name": "Dark"
+        }
+      ]
+    },
+    {
+      "id": 677,
+      "name": "Espurr",
+      "sprite": "677MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 678,
+      "name": "Meowstic",
+      "sprite": "678MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 679,
+      "name": "Honedge",
+      "sprite": "679MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Steel"
+        },
+        {
+          "slot": 2,
+          "name": "Ghost"
+        }
+      ]
+    },
+    {
+      "id": 680,
+      "name": "Doublade",
+      "sprite": "680MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Steel"
+        },
+        {
+          "slot": 2,
+          "name": "Ghost"
+        }
+      ]
+    },
+    {
+      "id": 681,
+      "name": "Aegislash",
+      "sprite": "681MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Steel"
+        },
+        {
+          "slot": 2,
+          "name": "Ghost"
+        }
+      ]
+    },
+    {
+      "id": 682,
+      "name": "Spritzee",
+      "sprite": "682MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 683,
+      "name": "Aromatisse",
+      "sprite": "683MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 684,
+      "name": "Swirlix",
+      "sprite": "684MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 685,
+      "name": "Slurpuff",
+      "sprite": "685MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 686,
+      "name": "Inkay",
+      "sprite": "686MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dark"
+        },
+        {
+          "slot": 2,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 687,
+      "name": "Malamar",
+      "sprite": "687MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dark"
+        },
+        {
+          "slot": 2,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 688,
+      "name": "Binacle",
+      "sprite": "688MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        },
+        {
+          "slot": 2,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 689,
+      "name": "Barbaracle",
+      "sprite": "689MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        },
+        {
+          "slot": 2,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 690,
+      "name": "Skrelp",
+      "sprite": "690MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Poison"
+        },
+        {
+          "slot": 2,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 691,
+      "name": "Dragalge",
+      "sprite": "691MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Poison"
+        },
+        {
+          "slot": 2,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 692,
+      "name": "Clauncher",
+      "sprite": "692MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 693,
+      "name": "Clawitzer",
+      "sprite": "693MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 694,
+      "name": "Helioptile",
+      "sprite": "694MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Electric"
+        },
+        {
+          "slot": 2,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 695,
+      "name": "Heliolisk",
+      "sprite": "695MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Electric"
+        },
+        {
+          "slot": 2,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 696,
+      "name": "Tyrunt",
+      "sprite": "696MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        },
+        {
+          "slot": 2,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 697,
+      "name": "Tyrantrum",
+      "sprite": "697MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        },
+        {
+          "slot": 2,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 698,
+      "name": "Amaura",
+      "sprite": "698MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        },
+        {
+          "slot": 2,
+          "name": "Ice"
+        }
+      ]
+    },
+    {
+      "id": 699,
+      "name": "Aurorus",
+      "sprite": "699MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        },
+        {
+          "slot": 2,
+          "name": "Ice"
+        }
+      ]
+    },
+    {
+      "id": 700,
+      "name": "Sylveon",
+      "sprite": "700MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 701,
+      "name": "Hawlucha",
+      "sprite": "701MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fighting"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 702,
+      "name": "Dedenne",
+      "sprite": "702MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Electric"
+        },
+        {
+          "slot": 2,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 703,
+      "name": "Carbink",
+      "sprite": "703MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        },
+        {
+          "slot": 2,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 704,
+      "name": "Goomy",
+      "sprite": "704MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 705,
+      "name": "Sliggoo",
+      "sprite": "705MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 706,
+      "name": "Goodra",
+      "sprite": "706MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 707,
+      "name": "Klefki",
+      "sprite": "707MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Steel"
+        },
+        {
+          "slot": 2,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 708,
+      "name": "Phantump",
+      "sprite": "708MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ghost"
+        },
+        {
+          "slot": 2,
+          "name": "Grass"
+        }
+      ]
+    },
+    {
+      "id": 709,
+      "name": "Trevenant",
+      "sprite": "709MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ghost"
+        },
+        {
+          "slot": 2,
+          "name": "Grass"
+        }
+      ]
+    },
+    {
+      "id": 710,
+      "name": "Pumpkaboo",
+      "sprite": "710MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ghost"
+        },
+        {
+          "slot": 2,
+          "name": "Grass"
+        }
+      ]
+    },
+    {
+      "id": 711,
+      "name": "Gourgeist",
+      "sprite": "711MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ghost"
+        },
+        {
+          "slot": 2,
+          "name": "Grass"
+        }
+      ]
+    },
+    {
+      "id": 712,
+      "name": "Bergmite",
+      "sprite": "712MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ice"
+        }
+      ]
+    },
+    {
+      "id": 713,
+      "name": "Avalugg",
+      "sprite": "713MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ice"
+        }
+      ]
+    },
+    {
+      "id": 714,
+      "name": "Noibat",
+      "sprite": "714MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Flying"
+        },
+        {
+          "slot": 2,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 715,
+      "name": "Noivern",
+      "sprite": "715MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Flying"
+        },
+        {
+          "slot": 2,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 716,
+      "name": "Xerneas",
+      "sprite": "716MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 717,
+      "name": "Yveltal",
+      "sprite": "717MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dark"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 718,
+      "name": "Zygarde",
+      "sprite": "718MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dragon"
+        },
+        {
+          "slot": 2,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 719,
+      "name": "Diancie",
+      "sprite": "719MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        },
+        {
+          "slot": 2,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 721,
+      "name": "Volcanion",
+      "sprite": "721MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fire"
+        },
+        {
+          "slot": 2,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 722,
+      "name": "Rowlet",
+      "sprite": "722MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 723,
+      "name": "Dartrix",
+      "sprite": "723MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 724,
+      "name": "Decidueye",
+      "sprite": "724MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        },
+        {
+          "slot": 2,
+          "name": "Ghost"
+        }
+      ]
+    },
+    {
+      "id": 725,
+      "name": "Litten",
+      "sprite": "725MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fire"
+        }
+      ]
+    },
+    {
+      "id": 726,
+      "name": "Torracat",
+      "sprite": "726MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fire"
+        }
+      ]
+    },
+    {
+      "id": 727,
+      "name": "Incineroar",
+      "sprite": "727MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fire"
+        },
+        {
+          "slot": 2,
+          "name": "Dark"
+        }
+      ]
+    },
+    {
+      "id": 728,
+      "name": "Popplio",
+      "sprite": "728MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 729,
+      "name": "Brionne",
+      "sprite": "729MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 730,
+      "name": "Primarina",
+      "sprite": "730MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 736,
+      "name": "Grubbin",
+      "sprite": "736MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        }
+      ]
+    },
+    {
+      "id": 737,
+      "name": "Charjabug",
+      "sprite": "737MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        },
+        {
+          "slot": 2,
+          "name": "Electric"
+        }
+      ]
+    },
+    {
+      "id": 738,
+      "name": "Vikavolt",
+      "sprite": "738MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        },
+        {
+          "slot": 2,
+          "name": "Electric"
+        }
+      ]
+    },
+    {
+      "id": 742,
+      "name": "Cutiefly",
+      "sprite": "742MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        },
+        {
+          "slot": 2,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 743,
+      "name": "Ribombee",
+      "sprite": "743MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        },
+        {
+          "slot": 2,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 744,
+      "name": "Rockruff",
+      "sprite": "744MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        }
+      ]
+    },
+    {
+      "id": 745,
+      "name": "Lycanroc",
+      "sprite": "745MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        }
+      ]
+    },
+    {
+      "id": 746,
+      "name": "Wishiwashi",
+      "sprite": "746MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 747,
+      "name": "Mareanie",
+      "sprite": "747MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Poison"
+        },
+        {
+          "slot": 2,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 748,
+      "name": "Toxapex",
+      "sprite": "748MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Poison"
+        },
+        {
+          "slot": 2,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 749,
+      "name": "Mudbray",
+      "sprite": "749MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 750,
+      "name": "Mudsdale",
+      "sprite": "750MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 751,
+      "name": "Dewpider",
+      "sprite": "751MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Bug"
+        }
+      ]
+    },
+    {
+      "id": 752,
+      "name": "Araquanid",
+      "sprite": "752MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Bug"
+        }
+      ]
+    },
+    {
+      "id": 753,
+      "name": "Fomantis",
+      "sprite": "753MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        }
+      ]
+    },
+    {
+      "id": 754,
+      "name": "Lurantis",
+      "sprite": "754MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        }
+      ]
+    },
+    {
+      "id": 755,
+      "name": "Morelull",
+      "sprite": "755MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        },
+        {
+          "slot": 2,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 756,
+      "name": "Shiinotic",
+      "sprite": "756MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        },
+        {
+          "slot": 2,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 757,
+      "name": "Salandit",
+      "sprite": "757MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Poison"
+        },
+        {
+          "slot": 2,
+          "name": "Fire"
+        }
+      ]
+    },
+    {
+      "id": 758,
+      "name": "Salazzle",
+      "sprite": "758MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Poison"
+        },
+        {
+          "slot": 2,
+          "name": "Fire"
+        }
+      ]
+    },
+    {
+      "id": 759,
+      "name": "Stufful",
+      "sprite": "759MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        },
+        {
+          "slot": 2,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 760,
+      "name": "Bewear",
+      "sprite": "760MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        },
+        {
+          "slot": 2,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 761,
+      "name": "Bounsweet",
+      "sprite": "761MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        }
+      ]
+    },
+    {
+      "id": 762,
+      "name": "Steenee",
+      "sprite": "762MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        }
+      ]
+    },
+    {
+      "id": 763,
+      "name": "Tsareena",
+      "sprite": "763MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        }
+      ]
+    },
+    {
+      "id": 764,
+      "name": "Comfey",
+      "sprite": "764MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 765,
+      "name": "Oranguru",
+      "sprite": "765MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        },
+        {
+          "slot": 2,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 766,
+      "name": "Passimian",
+      "sprite": "766MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 767,
+      "name": "Wimpod",
+      "sprite": "767MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        },
+        {
+          "slot": 2,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 768,
+      "name": "Golisopod",
+      "sprite": "768MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        },
+        {
+          "slot": 2,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 769,
+      "name": "Sandygast",
+      "sprite": "769MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ghost"
+        },
+        {
+          "slot": 2,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 770,
+      "name": "Palossand",
+      "sprite": "770MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ghost"
+        },
+        {
+          "slot": 2,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 771,
+      "name": "Pyukumuku",
+      "sprite": "771MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 772,
+      "name": "Type: Null",
+      "sprite": "772MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 773,
+      "name": "Silvally",
+      "sprite": "773MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 776,
+      "name": "Turtonator",
+      "sprite": "776MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fire"
+        },
+        {
+          "slot": 2,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 777,
+      "name": "Togedemaru",
+      "sprite": "777MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Electric"
+        },
+        {
+          "slot": 2,
+          "name": "Steel"
+        }
+      ]
+    },
+    {
+      "id": 778,
+      "name": "Mimikyu",
+      "sprite": "778MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ghost"
+        },
+        {
+          "slot": 2,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 780,
+      "name": "Drampa",
+      "sprite": "780MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        },
+        {
+          "slot": 2,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 781,
+      "name": "Dhelmise",
+      "sprite": "781MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ghost"
+        },
+        {
+          "slot": 2,
+          "name": "Grass"
+        }
+      ]
+    },
+    {
+      "id": 782,
+      "name": "Jangmo-o",
+      "sprite": "782MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 783,
+      "name": "Hakamo-o",
+      "sprite": "783MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dragon"
+        },
+        {
+          "slot": 2,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 784,
+      "name": "Kommo-o",
+      "sprite": "784MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dragon"
+        },
+        {
+          "slot": 2,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 785,
+      "name": "Tapu Koko",
+      "sprite": "785MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Electric"
+        },
+        {
+          "slot": 2,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 786,
+      "name": "Tapu Lele",
+      "sprite": "786MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        },
+        {
+          "slot": 2,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 787,
+      "name": "Tapu Bulu",
+      "sprite": "787MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        },
+        {
+          "slot": 2,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 788,
+      "name": "Tapu Fini",
+      "sprite": "788MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 789,
+      "name": "Cosmog",
+      "sprite": "789MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 790,
+      "name": "Cosmoem",
+      "sprite": "790MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 791,
+      "name": "Solgaleo",
+      "sprite": "791MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        },
+        {
+          "slot": 2,
+          "name": "Steel"
+        }
+      ]
+    },
+    {
+      "id": 792,
+      "name": "Lunala",
+      "sprite": "792MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        },
+        {
+          "slot": 2,
+          "name": "Ghost"
+        }
+      ]
+    },
+    {
+      "id": 793,
+      "name": "Nihilego",
+      "sprite": "793MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        },
+        {
+          "slot": 2,
+          "name": "Poison"
+        }
+      ]
+    },
+    {
+      "id": 794,
+      "name": "Buzzwole",
+      "sprite": "794MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        },
+        {
+          "slot": 2,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 795,
+      "name": "Pheromosa",
+      "sprite": "795MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        },
+        {
+          "slot": 2,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 796,
+      "name": "Xurkitree",
+      "sprite": "796MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Electric"
+        }
+      ]
+    },
+    {
+      "id": 797,
+      "name": "Celesteela",
+      "sprite": "797MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Steel"
+        },
+        {
+          "slot": 2,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 798,
+      "name": "Kartana",
+      "sprite": "798MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        },
+        {
+          "slot": 2,
+          "name": "Steel"
+        }
+      ]
+    },
+    {
+      "id": 799,
+      "name": "Guzzlord",
+      "sprite": "799MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dark"
+        },
+        {
+          "slot": 2,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 800,
+      "name": "Necrozma",
+      "sprite": "800MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 801,
+      "name": "Magearna",
+      "sprite": "801MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Steel"
+        },
+        {
+          "slot": 2,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 802,
+      "name": "Marshadow",
+      "sprite": "802MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fighting"
+        },
+        {
+          "slot": 2,
+          "name": "Ghost"
+        }
+      ]
+    },
+    {
+      "id": 803,
+      "name": "Poipole",
+      "sprite": "803MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Poison"
+        }
+      ]
+    },
+    {
+      "id": 804,
+      "name": "Naganadel",
+      "sprite": "804MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Poison"
+        },
+        {
+          "slot": 2,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 805,
+      "name": "Stakataka",
+      "sprite": "805MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        },
+        {
+          "slot": 2,
+          "name": "Steel"
+        }
+      ]
+    },
+    {
+      "id": 806,
+      "name": "Blacephalon",
+      "sprite": "806MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fire"
+        },
+        {
+          "slot": 2,
+          "name": "Ghost"
+        }
+      ]
+    },
+    {
+      "id": 807,
+      "name": "Zeraora",
+      "sprite": "807MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Electric"
+        }
+      ]
+    },
+    {
+      "id": 808,
+      "name": "Meltan",
+      "sprite": "808MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Steel"
+        }
+      ]
+    },
+    {
+      "id": 809,
+      "name": "Melmetal",
+      "sprite": "809MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Steel"
+        }
+      ]
+    },
+    {
+      "id": 810,
+      "name": "Grookey",
+      "sprite": "810MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        }
+      ]
+    },
+    {
+      "id": 811,
+      "name": "Thwackey",
+      "sprite": "811MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        }
+      ]
+    },
+    {
+      "id": 812,
+      "name": "Rillaboom",
+      "sprite": "812MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        }
+      ]
+    },
+    {
+      "id": 813,
+      "name": "Scorbunny",
+      "sprite": "813MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fire"
+        }
+      ]
+    },
+    {
+      "id": 814,
+      "name": "Raboot",
+      "sprite": "814MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fire"
+        }
+      ]
+    },
+    {
+      "id": 815,
+      "name": "Cinderace",
+      "sprite": "815MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fire"
+        }
+      ]
+    },
+    {
+      "id": 816,
+      "name": "Sobble",
+      "sprite": "816MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 817,
+      "name": "Drizzile",
+      "sprite": "817MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 818,
+      "name": "Inteleon",
+      "sprite": "818MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 819,
+      "name": "Skwovet",
+      "sprite": "819MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 820,
+      "name": "Greedent",
+      "sprite": "820MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 821,
+      "name": "Rookidee",
+      "sprite": "821MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 822,
+      "name": "Corvisquire",
+      "sprite": "822MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Flying"
+        }
+      ]
+    },
+    {
+      "id": 823,
+      "name": "Corviknight",
+      "sprite": "823MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Flying"
+        },
+        {
+          "slot": 2,
+          "name": "Steel"
+        }
+      ]
+    },
+    {
+      "id": 824,
+      "name": "Blipbug",
+      "sprite": "824MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        }
+      ]
+    },
+    {
+      "id": 825,
+      "name": "Dottler",
+      "sprite": "825MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        },
+        {
+          "slot": 2,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 826,
+      "name": "Orbeetle",
+      "sprite": "826MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Bug"
+        },
+        {
+          "slot": 2,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 827,
+      "name": "Nickit",
+      "sprite": "827MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dark"
+        }
+      ]
+    },
+    {
+      "id": 828,
+      "name": "Thievul",
+      "sprite": "828MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dark"
+        }
+      ]
+    },
+    {
+      "id": 829,
+      "name": "Gossifleur",
+      "sprite": "829MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        }
+      ]
+    },
+    {
+      "id": 830,
+      "name": "Eldegoss",
+      "sprite": "830MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        }
+      ]
+    },
+    {
+      "id": 831,
+      "name": "Wooloo",
+      "sprite": "831MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 832,
+      "name": "Dubwool",
+      "sprite": "832MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 833,
+      "name": "Chewtle",
+      "sprite": "833MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 834,
+      "name": "Drednaw",
+      "sprite": "834MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Rock"
+        }
+      ]
+    },
+    {
+      "id": 835,
+      "name": "Yamper",
+      "sprite": "835MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Electric"
+        }
+      ]
+    },
+    {
+      "id": 836,
+      "name": "Boltund",
+      "sprite": "836MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Electric"
+        }
+      ]
+    },
+    {
+      "id": 837,
+      "name": "Rolycoly",
+      "sprite": "837MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        }
+      ]
+    },
+    {
+      "id": 838,
+      "name": "Carkol",
+      "sprite": "838MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        },
+        {
+          "slot": 2,
+          "name": "Fire"
+        }
+      ]
+    },
+    {
+      "id": 839,
+      "name": "Coalossal",
+      "sprite": "839MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        },
+        {
+          "slot": 2,
+          "name": "Fire"
+        }
+      ]
+    },
+    {
+      "id": 840,
+      "name": "Applin",
+      "sprite": "840MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        },
+        {
+          "slot": 2,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 841,
+      "name": "Flapple",
+      "sprite": "841MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        },
+        {
+          "slot": 2,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 842,
+      "name": "Appletun",
+      "sprite": "842MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Grass"
+        },
+        {
+          "slot": 2,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 843,
+      "name": "Silicobra",
+      "sprite": "843MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 844,
+      "name": "Sandaconda",
+      "sprite": "844MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ground"
+        }
+      ]
+    },
+    {
+      "id": 845,
+      "name": "Cramorant",
+      "sprite": "845MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Flying"
+        },
+        {
+          "slot": 2,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 846,
+      "name": "Arrokuda",
+      "sprite": "846MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 847,
+      "name": "Barraskewda",
+      "sprite": "847MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        }
+      ]
+    },
+    {
+      "id": 848,
+      "name": "Toxel",
+      "sprite": "848MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Electric"
+        },
+        {
+          "slot": 2,
+          "name": "Poison"
+        }
+      ]
+    },
+    {
+      "id": 849,
+      "name": "Toxtricity",
+      "sprite": "849MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Electric"
+        },
+        {
+          "slot": 2,
+          "name": "Poison"
+        }
+      ]
+    },
+    {
+      "id": 850,
+      "name": "Sizzlipede",
+      "sprite": "850MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fire"
+        },
+        {
+          "slot": 2,
+          "name": "Bug"
+        }
+      ]
+    },
+    {
+      "id": 851,
+      "name": "Centiskorch",
+      "sprite": "851MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fire"
+        },
+        {
+          "slot": 2,
+          "name": "Bug"
+        }
+      ]
+    },
+    {
+      "id": 852,
+      "name": "Clobbopus",
+      "sprite": "852MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 853,
+      "name": "Grapploct",
+      "sprite": "853MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 854,
+      "name": "Sinistea",
+      "sprite": "854MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ghost"
+        }
+      ]
+    },
+    {
+      "id": 855,
+      "name": "Polteageist",
+      "sprite": "855MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ghost"
+        }
+      ]
+    },
+    {
+      "id": 856,
+      "name": "Hatenna",
+      "sprite": "856MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 857,
+      "name": "Hattrem",
+      "sprite": "857MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 858,
+      "name": "Hatterene",
+      "sprite": "858MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        },
+        {
+          "slot": 2,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 859,
+      "name": "Impidimp",
+      "sprite": "859MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dark"
+        },
+        {
+          "slot": 2,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 860,
+      "name": "Morgrem",
+      "sprite": "860MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dark"
+        },
+        {
+          "slot": 2,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 861,
+      "name": "Grimmsnarl",
+      "sprite": "861MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dark"
+        },
+        {
+          "slot": 2,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 862,
+      "name": "Obstagoon",
+      "sprite": "862MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dark"
+        },
+        {
+          "slot": 2,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 863,
+      "name": "Perrserker",
+      "sprite": "863MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Steel"
+        }
+      ]
+    },
+    {
+      "id": 864,
+      "name": "Cursola",
+      "sprite": "864MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ghost"
+        }
+      ]
+    },
+    {
+      "id": 865,
+      "name": "Sirfetch'd",
+      "sprite": "865MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 866,
+      "name": "Mr. Rime",
+      "sprite": "866MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ice"
+        },
+        {
+          "slot": 2,
+          "name": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": 867,
+      "name": "Runerigus",
+      "sprite": "867MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ground"
+        },
+        {
+          "slot": 2,
+          "name": "Ghost"
+        }
+      ]
+    },
+    {
+      "id": 868,
+      "name": "Milcery",
+      "sprite": "868MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 869,
+      "name": "Alcremie",
+      "sprite": "869MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 870,
+      "name": "Falinks",
+      "sprite": "870MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 871,
+      "name": "Pincurchin",
+      "sprite": "871MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Electric"
+        }
+      ]
+    },
+    {
+      "id": 872,
+      "name": "Snom",
+      "sprite": "872MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ice"
+        },
+        {
+          "slot": 2,
+          "name": "Bug"
+        }
+      ]
+    },
+    {
+      "id": 873,
+      "name": "Frosmoth",
+      "sprite": "873MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ice"
+        },
+        {
+          "slot": 2,
+          "name": "Bug"
+        }
+      ]
+    },
+    {
+      "id": 874,
+      "name": "Stonjourner",
+      "sprite": "874MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Rock"
+        }
+      ]
+    },
+    {
+      "id": 875,
+      "name": "Eiscue",
+      "sprite": "875MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ice"
+        }
+      ]
+    },
+    {
+      "id": 876,
+      "name": "Indeedee",
+      "sprite": "876MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        },
+        {
+          "slot": 2,
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "id": 877,
+      "name": "Morpeko",
+      "sprite": "877MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Electric"
+        },
+        {
+          "slot": 2,
+          "name": "Dark"
+        }
+      ]
+    },
+    {
+      "id": 878,
+      "name": "Cufant",
+      "sprite": "878MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Steel"
+        }
+      ]
+    },
+    {
+      "id": 879,
+      "name": "Copperajah",
+      "sprite": "879MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Steel"
+        }
+      ]
+    },
+    {
+      "id": 880,
+      "name": "Dracozolt",
+      "sprite": "880MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Electric"
+        },
+        {
+          "slot": 2,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 881,
+      "name": "Arctozolt",
+      "sprite": "881MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Electric"
+        },
+        {
+          "slot": 2,
+          "name": "Ice"
+        }
+      ]
+    },
+    {
+      "id": 882,
+      "name": "Dracovish",
+      "sprite": "882MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 883,
+      "name": "Arctovish",
+      "sprite": "883MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Water"
+        },
+        {
+          "slot": 2,
+          "name": "Ice"
+        }
+      ]
+    },
+    {
+      "id": 884,
+      "name": "Duraludon",
+      "sprite": "884MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Steel"
+        },
+        {
+          "slot": 2,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 885,
+      "name": "Dreepy",
+      "sprite": "885MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dragon"
+        },
+        {
+          "slot": 2,
+          "name": "Ghost"
+        }
+      ]
+    },
+    {
+      "id": 886,
+      "name": "Drakloak",
+      "sprite": "886MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dragon"
+        },
+        {
+          "slot": 2,
+          "name": "Ghost"
+        }
+      ]
+    },
+    {
+      "id": 887,
+      "name": "Dragapult",
+      "sprite": "887MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dragon"
+        },
+        {
+          "slot": 2,
+          "name": "Ghost"
+        }
+      ]
+    },
+    {
+      "id": 888,
+      "name": "Zacian",
+      "sprite": "888MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": 889,
+      "name": "Zamazenta",
+      "sprite": "889MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 890,
+      "name": "Eternatus",
+      "sprite": "890MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Poison"
+        },
+        {
+          "slot": 2,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 891,
+      "name": "Kubfu",
+      "sprite": "891MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": 892,
+      "name": "Urshifu",
+      "sprite": "892MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Fighting"
+        },
+        {
+          "slot": 2,
+          "name": "Dark"
+        }
+      ]
+    },
+    {
+      "id": 893,
+      "name": "Zarude",
+      "sprite": "893MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dark"
+        },
+        {
+          "slot": 2,
+          "name": "Grass"
+        }
+      ]
+    },
+    {
+      "id": 894,
+      "name": "Regieleki",
+      "sprite": "894MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Electric"
+        }
+      ]
+    },
+    {
+      "id": 895,
+      "name": "Regidrago",
+      "sprite": "895MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Dragon"
+        }
+      ]
+    },
+    {
+      "id": 896,
+      "name": "Glastrier",
+      "sprite": "896MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ice"
+        }
+      ]
+    },
+    {
+      "id": 897,
+      "name": "Spectrier",
+      "sprite": "897MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Ghost"
+        }
+      ]
+    },
+    {
+      "id": 898,
+      "name": "Calyrex",
+      "sprite": "898MS8.png",
+      "types": [
+        {
+          "slot": 1,
+          "name": "Psychic"
+        },
+        {
+          "slot": 2,
+          "name": "Grass"
+        }
+      ]
+    }
+  ]
