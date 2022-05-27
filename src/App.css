@@ -1,3 +1,6 @@
+body{
+  overflow-y: overlay;
+}
 .App {
   background-color: #da4f4f;
   width: 100%;
@@ -7,6 +10,7 @@
   align-items: center;
   flex-direction: column;
   gap: 10px;
+
 }
 
 
@@ -51,8 +55,6 @@ header img {
   transform-style: preserve-3d;
   cursor: pointer;
   position: relative;
-
-
 }
 
 .cube.show-front {
@@ -91,10 +93,19 @@ header img {
   justify-content: center;
   align-items: center;
 
+
   gap: 5px;
+  background: rgb(73, 88, 88);
+
+  -webkit-box-shadow: 3px 2px 2px 0px #000000; 
+  box-shadow: 2px 2px 4px 0px #000000;
 }
 
-.cube__face--front {
+.cube__face:hover{
+  background: rgb(85, 104, 104);
+}
+
+/* .cube__face--front {
   background: rgb(73, 88, 88);
 }
 
@@ -104,7 +115,7 @@ header img {
 
 .cube__face--back {
   background: rgb(73, 88, 88);
-}
+} */
 
 .cube__face--front {
   transform: rotateY(0deg) translateZ(60px);

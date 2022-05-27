@@ -4,26 +4,27 @@ import { useState } from "react";
 export function CardStatusItem({ title, content1, content2 }) {
   return (
     <>
-      {!content2 ? (
-        <div className={style.smallStatusCard}>
-          <div className={style.carStatusTitle}>{title}</div>
-          <div className={style.cardStatusContent}>{content1}</div>
-        </div>
-      ) : (
-        <div className={style.smallStatusCard}>
-          <div className={style.carStatusTitle}>{title}</div>
-          <div className={style.separateCards}>
-            <div className={style.cardStatusContentSeparate}>{content1}</div>
-            <div className={style.cardStatusContentSeparate}>{content2}</div>
-          </div>
-        </div>
-      )}
+      <div className={style.smallStatusCard}>
+        <div className={style.carStatusTitle}>{title}</div>
+        {!content2 ? (
+          <>
+            <div className={style.cardStatusContent}>{content1}</div>
+          </>
+        ) : (
+          <>
+            <div className={style.separateCards}>
+              <div className={style.cardStatusContentSeparate}>{content1}</div>
+              <div className={style.cardStatusContentSeparate}>{content2}</div>
+            </div>
+          </>
+        )}
+      </div>
     </>
   );
 }
 
 export function CardAbilities({ abilities }) {
-  const GetAbility = (value) =>
+  const formatAbilityName = (value) =>
     (value.charAt(0).toUpperCase() + value.slice(1)).replace("-", " ");
   const [abilityInfo, setAbilityInfo] = useState(null);
 
@@ -32,7 +33,9 @@ export function CardAbilities({ abilities }) {
     const data = await response.json();
     for (let i = 0; i < data.effect_entries.length; i++) {
       if (data.effect_entries[i].language.name === "en") {
-        setTimeout(() => {  setAbilityInfo(data.effect_entries[i].effect); }, 300);        
+        setTimeout(() => {
+          setAbilityInfo(data.effect_entries[i].effect);
+        }, 300);
         break;
       }
     }
@@ -52,14 +55,16 @@ export function CardAbilities({ abilities }) {
             <div className={style.tooltiptext}>
               {abilityInfo ? (
                 <div>
-                  <p>Efeitos:</p>
+                  <p>
+                    Efeitos: {item.is_hidden && <div> (Hidden Ability)</div>}
+                  </p>
                   {abilityInfo}
                 </div>
               ) : (
-                <img src="./imgs/loading.gif" alt=""/>
+                <img src="./imgs/loading.gif" alt="" />
               )}
             </div>
-            {GetAbility(item.ability.name)}
+            {formatAbilityName(item.ability.name)}
           </div>
         ))}
     </div>
