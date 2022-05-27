@@ -1,0 +1,124 @@
+.pokeIMG {
+  flex: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-size: cover;
+}
+
+.pokeID {
+  background-color: rgba(99, 144, 240, 0.5);
+  padding:3px;
+  border-radius: 15px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 13px;
+  width: 30px;
+  height: 30px;
+}
+
+.pokeName {
+  color: white;
+  text-transform: capitalize;
+  font-size: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 30%;
+}
+
+.typeList {
+  display: flex;
+  flex: 25%;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+
+}
+
+.typeItems {
+  padding: 5px;
+  border-radius: 10%;
+  color: white;
+  text-transform: capitalize;
+  user-select: none;
+}
+
+.type_normal {
+  background-color: #A8A77A;
+}
+
+.type_fire {
+  background-color: #EE8130;
+}
+
+.type_water {
+  background-color: #6390F0;
+}
+
+.type_electric {
+  background-color: #F7D02C;
+}
+
+.type_grass {
+  background-color: #7AC74C;
+}
+
+.type_ice {
+  background-color: #96D9D6;
+}
+
+.type_fighting {
+  background-color: #C22E28;
+}
+
+.type_poison {
+  background-color: #A33EA1;
+}
+
+.type_ground {
+  background-color: #E2BF65;
+}
+
+.type_flying {
+  background-color: #A98FF3;
+}
+
+.type_psychic {
+  background-color: #F95587;
+}
+
+.type_bug {
+  background-color: #A6B91A;
+}
+
+.type_rock {
+  background-color: #B6A136;
+}
+
+.type_ghost {
+  background-color: #735797;
+}
+
+.type_dragon {
+  background-color: #6F35FC;
+}
+
+.type_dark {
+  background-color: #705746;
+}
+
+.type_steel {
+  background-color: #B7B7CE;
+}
+
+.type_fairy {
+  background-color: #D685AD;
+}

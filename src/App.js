@@ -4,7 +4,8 @@ import 'react-lazy-load-image-component/src/effects/blur.css';
 import { useState, useEffect } from 'react';
 import TopBarProgress from "react-topbar-progress-indicator";
 import Pagination from './components/Pagination';
-import ContentPokeList from './components/ContentPokeList'
+import ContentPokeList from './components/CardPokemon/Card'
+
 
 // import JsonPokemonData from './data.json'
 const getPokeURL = (id) => `https://pokeapi.co/api/v2/pokemon/${id}`;
@@ -19,18 +20,6 @@ TopBarProgress.config({
 });
 
 
-let shows = `{
-  "netflix": {
-      "name": "Stranger Things",
-      "creator": "Duffer Brothers",
-      "year": 2016,
-      "characters": ["Eleven", "Mike", "Dustin"],
-      "genre": "Science Fiction/Horror",
-      "price": {
-          "1 person": "$5", "2 person": "$8", "4 person": "$13"
-      }
-  }
-}`;
 
 function App() {
   const maxPoke = 898;
@@ -41,11 +30,19 @@ function App() {
   const [selectedPage, setSelectedPage] = useState(1)
   const paginateItems = Math.ceil(maxPoke / itemsPerPage);
   const pageMaxItems = (itemsPerPage * (selectedPage - 1)) + itemsPerPage;
-  const maxPokeValue = pageMaxItems > maxPoke ? maxPoke : pageMaxItems;
- 
- 
+  const maxPokeValue = (pageMaxItems > maxPoke) ? maxPoke : pageMaxItems;
+
+  const SelectPage = (page) => {
+    if (page <= paginateItems && page >= 1 && page !== selectedPage) {
+      setLoadingItems(true)
+      setSelectedPage(page);
+      setPokemonList(null);
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+  }
+
   useEffect(() => {
-    const pokemonPromisses = [];
+    var pokemonPromisses = [];
     for (let i = (itemsPerPage * (selectedPage - 1)) + 1; i <= maxPokeValue; i++) {
       pokemonPromisses.push(
         fetch(
@@ -54,28 +51,21 @@ function App() {
           )
       )
     }
-
     Promise.all(pokemonPromisses)
       .then(pokemons => {
         setPokemonList(pokemons)
         setLoadingItems(false)
       })
-    }, [selectedPage])
-    
-  const SelectPage = (page) => {
-    if (page <= paginateItems && page >= 1 && page != selectedPage) {
-      setLoadingItems(true)
-      setSelectedPage(page);
-      window.scrollTo({ top: 0, behavior: 'smooth' });
-    }
-  }
- 
+  }, [selectedPage]) // eslint-disable-line
+
   return (
     <div className="App">
+
       {loadingItems && <TopBarProgress />}
       <header className='search'>
-        <img src='./pokemon.svg' alt=''></img>
+        <img src='./imgs/pokemon.svg' alt=''></img>
       </header>
+
 
       <Pagination
         paginateSize={9}
@@ -95,7 +85,9 @@ function App() {
         SelectPage={SelectPage}
         paginateItems={paginateItems}
       />
-      <footer></footer>
+      <footer>
+
+      </footer>
     </div>
   );
 }

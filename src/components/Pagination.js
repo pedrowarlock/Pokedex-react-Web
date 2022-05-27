@@ -23,7 +23,7 @@ function Pagination({ paginateSize, selectedPage, SelectPage, paginateItems }) {
         </div>
   
         {
-          tmp.map((item, index) => (
+          tmp && tmp.map((item, index) => (
             <div
               className={`${styles.paginationItem} ${(selectedPage === (item)) ? styles.paginationItemActive : ''}`}
               key={index} style={{ cursor: 'pointer' }}
