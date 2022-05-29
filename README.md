@@ -1,5 +1,6 @@
 
 ![alt text](public/imgs/logo.png)
+
 Esse projeto foi desenvolvido com REACT utilizando a API de pokémon (pokeapi.co), além de utilizar "React Lazy Load Image Component" para criar um efeito agradável na renderização das imagens dos pokémons e 'react-topbar-progress-indicator' para uma barra de carregamento fixo no topo do site.
 
   <a href="https://pedrowarlock.github.io/pokedex-react/build/" target="_blank"><img src="https://img.shields.io/badge/-Live Demo-20247B5?style=for-the-badge&logo=folder&logoColor=white"></a>
