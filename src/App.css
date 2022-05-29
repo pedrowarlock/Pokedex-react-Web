@@ -2,7 +2,7 @@ body{
   overflow-y: overlay;
 }
 .App {
-  background-color: #da4f4f;
+  background-color: #e6e6e6;
   width: 100%;
   min-height: 100vh;
   display: flex;
@@ -96,7 +96,6 @@ header img {
 
   gap: 5px;
   background: rgb(73, 88, 88);
-
   -webkit-box-shadow: 3px 2px 2px 0px #000000; 
   box-shadow: 2px 2px 4px 0px #000000;
 }

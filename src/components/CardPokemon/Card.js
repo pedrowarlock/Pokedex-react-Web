@@ -1,4 +1,4 @@
-import styles from "./Card.module.css";
+import style from "./Card.module.css";
 import FrontCard from "./FaceCard/Index";
 import StatusCard from "./StatusCard/Index";
 import AbilitiesCard from "./AbilitiesCard/Index";
@@ -18,8 +18,8 @@ function RenderSelectedPage({ pkList }) {
   }
 
   return (
-    <div className={styles.poketable}>
-      {(pkList)?
+    <div className={style.cardContent}>
+      {pkList ? (
         pkList.map((data, index) => (
           <div key={index} className="scene">
             <div className="cube" onClick={handleClickCard}>
@@ -34,11 +34,12 @@ function RenderSelectedPage({ pkList }) {
               </div>
             </div>
           </div>
-        )):
+        ))
+      ) : (
         <div>
-            <img src="./imgs/loading2.gif" alt="" />
+          <img src="./imgs/loading2.gif" alt="" />
         </div>
-    }
+      )}
     </div>
   );
 }

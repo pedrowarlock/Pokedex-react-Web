@@ -1,0 +1,119 @@
+.svgImage {
+  width: 54px;
+  height: 54px;
+ 
+  transition: all 250ms;
+  fill: #D9D9D9;
+  filter: drop-shadow(0.5px 1px 1px rgb(0 0 0 / 0.4));
+  user-select: none;
+}
+
+.svgImage path{
+  width: 54px;
+  height: 54px;
+}
+
+.svgImage:hover {
+  fill:#EB5A5A;
+}
+
+.paginationItem {
+  color: #686868;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  width: 43px;
+  height: 43px;
+  background-color: rgb(217, 217, 217, 0.1);
+  user-select: none;
+  transition: all 250ms;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.paginationItem:hover {
+  background-color: #EB5A5A;
+  color: white;
+  -webkit-box-shadow:2px 3px 5px -3px #000000;
+  box-shadow: 2px 3px 5px -3px #000000;
+}
+
+.paginationItemActive {
+  background-color: #EB5A5A;
+  color: white;
+  -webkit-box-shadow: 2px 3px 5px -3px #000000;
+  box-shadow: 2px 2px 5px -3px #000000;
+}
+
+.extraItem{
+  cursor: pointer;
+  color: #686868;
+  background-color: #D9D9D9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  width: 43px;
+  height: 43px;
+  user-select: none;
+  transition: all 250ms;
+  font-size: 16px;
+  font-weight: bold;
+  -webkit-box-shadow: 2px 2px 5px -3px #000000;
+  box-shadow: 2px 2px 5px -3px #000000;
+}
+
+.extraItem:hover {
+  background-color: #EB5A5A;
+  color: white;
+}
+
+.dotItem{
+  color: #686868;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 23px;
+  height: 43px;
+  user-select: none;
+  transition: all 250ms;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+
+@media (max-width: 540px) {
+  .paginationItem {
+    font-size: 10px;
+    width: 23px;
+  height: 23px;
+  }
+  .dotItem{
+    width: 23px;
+    height: 23px;
+  }
+  .extraItem{
+    width: 23px;
+    height: 23px;
+    font-size: 10px;
+  }
+
+  .svgImage {
+    width: 34px;
+    height: 34px;
+  }  
+}
+
+@media (max-width: 460px) {
+  .paginationItem{
+    display: none;
+  }
+  .dotItem{
+    display: none;
+  }
+  .extraItem{
+    display: none;
+  }
+}
