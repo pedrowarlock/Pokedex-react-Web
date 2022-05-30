@@ -1,6 +1,8 @@
-body{
+body {
   overflow-y: overlay;
+  -webkit-tap-highlight-color: transparent;
 }
+
 .App {
   background-color: #e6e6e6;
   width: 100%;
@@ -36,6 +38,20 @@ body{
   transform-style: preserve-3d;
   cursor: pointer;
   position: relative;
+
+  -webkit-touch-callout: none;
+  /* iOS Safari */
+  -webkit-user-select: none;
+  /* Safari */
+  -khtml-user-select: none;
+  /* Konqueror HTML */
+  -moz-user-select: none;
+  /* Old versions of Firefox */
+  -ms-user-select: none;
+  /* Internet Explorer/Edge */
+  user-select: none;
+  /* Non-prefixed version, currently
+                                supported by Chrome, Edge, Opera and Firefox */
 }
 
 .cube.show-front {
@@ -77,11 +93,11 @@ body{
 
   gap: 5px;
   background: rgb(73, 88, 88);
-  -webkit-box-shadow: 3px 2px 2px 0px #000000; 
+  -webkit-box-shadow: 3px 2px 2px 0px #000000;
   box-shadow: 2px 2px 4px 0px #000000;
 }
 
-.cube__face:hover{
+.cube__face:hover {
   background: rgb(85, 104, 104);
 }
 

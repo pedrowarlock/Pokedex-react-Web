@@ -42,11 +42,11 @@ export function CardAbilities({ abilities }) {
   }
 
   return (
-    <div className={style.abilityCard}>
+    <div className={style.abilityCard} onClick={(e) => e.stopPropagation()}>
       <div className={style.abilityTitle}>Habilidades</div>
       {abilities &&
         abilities.map((item, index) => (
-          <div
+          <div            
             className={style.ability}
             key={index}
             onMouseEnter={() => GetAbilityInfo(item.ability.url)}
